@@ -2,7 +2,7 @@
 
 ## Partie obligatoire
 **Function name :** get_next_line  
-**Prototype char :** *get_next_line(int fd);  
+**Prototype :** char *get_next_line(int fd);  
 **Fichiers de rendu :** get_next_line.h, get_next_line.c, get_next_line_utils.c  
 **Paramètres fd :** le descripteur de fichier depuis lequel lire  
 **Valeur de retour Le contenu de la ligne lue :** comportement correct  
